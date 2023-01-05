@@ -1,4 +1,3 @@
-// https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/learn/lecture/11183956#questions
 // divide and conquer
 
 sortedArray = [1, 4, 5, 6, 7, 12, 22, 44, 55, 66];
@@ -20,5 +19,6 @@ function binarySearch(arr, val) {
   }
   return -1;
 }
+
 
 console.log(binarySearch(sortedArray, 12));

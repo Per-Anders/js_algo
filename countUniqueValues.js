@@ -1,4 +1,3 @@
-// https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/learn/lecture/11183944#questions
 
 arr = [1,1,2,2];
 
